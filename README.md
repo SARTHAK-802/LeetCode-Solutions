@@ -21,11 +21,6 @@ I use this repository to track my progress, strengthen problem-solving skills, a
 - Python
 ---
 
-## 📂 Repository Structure
-Solutions are stored problem-wise (usually auto-synced structure):
-
----
-
 ## ✅ Notes
 - All solutions are written by me.
 - Solutions are uploaded after passing (Accepted ✅).
