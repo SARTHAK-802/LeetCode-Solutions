@@ -38,5 +38,5 @@ If you find this repository helpful:
 ---
 
 ### Author
-**<Sarthak Maity>**  
+**Sarthak Maity**  
 GitHub: https://github.com/SARTHAK-802
