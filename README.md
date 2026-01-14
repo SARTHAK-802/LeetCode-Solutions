@@ -19,9 +19,6 @@ I use this repository to track my progress, strengthen problem-solving skills, a
 
 ## 🛠 Languages Used
 - Python
-- C++
-- Java *(optional if you use it)*
-
 ---
 
 ## 📂 Repository Structure
