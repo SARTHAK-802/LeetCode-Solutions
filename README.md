@@ -14,10 +14,7 @@ I use this repository to track my progress, strengthen problem-solving skills, a
 ---
 
 ## 🔗 LeetCode Profile
-- LeetCode: https://leetcode.com/<your_username>/
-
-> Replace `<your_username>` with your actual username.
-
+- LeetCode: https://leetcode.com/u/sarthak-12/
 ---
 
 ## 🛠 Languages Used
