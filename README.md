@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-This repository contains my **accepted LeetCode solutions** to Data Structures & Algorithms (DSA) problems.
+This repository includes my accepted LeetCode solutions, demonstrating problem-solving skills in Data Structures & Algorithms (DSA) along with other competitive programming problems..
 I use this repository to track my progress, strengthen problem-solving skills, and maintain a clean archive of solutions for revision and interview preparation.
 
 ---
