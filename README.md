@@ -32,7 +32,7 @@ I use this repository to track my progress, strengthen problem-solving skills, a
 If you find this repository helpful:
 - Star the repository
 - Fork it for your own tracking
-- 📌 Share suggestions or improvements
+- Share suggestions or improvements
 
 ---
 
