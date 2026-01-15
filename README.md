@@ -18,7 +18,7 @@ I use this repository to track my progress, strengthen problem-solving skills, a
 ---
 
 ## 🛠 Languages Used
-- Python
+- Python (as of now)
 ---
 
 ## Notes
